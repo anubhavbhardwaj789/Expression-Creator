@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	width:1024px;
+	margin:45px auto;
+	background-color:#83837D;
+	
+}
+
+.Header
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Expression_Area_Parent
+{
+	min-width: 1024px;
+	min-height: 200px;
+	border: solid black 1px;
+	margin:;
+	
+}
+
+.Expression_Area
+{
+	width: auto;
+	height: auto;
+	min-width:50px;
+	min-height:20px;
+	border: solid black 1px;
+	float: left;
+		
+}
+
+i
+{
+	width: auto;
+	height: auto;
+	border: solid black 1px;
+	padding: auto;
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+div
+{
+	padding: 2px 2px 2px 2px;
+	margin-left: 2px;
+	margin-right: 2pxs;
+	margin-top: 10px;	
+}
+
+.Function_Icon_List
+{
+	text-align:center;
+}
